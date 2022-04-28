@@ -1,0 +1,12 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #282c34;
+    background-size: cover;
+    position: fixed;
+    width: 100%;
+}
+
+html {
+    font-size: 62.5%;
+    color: white;
+}
